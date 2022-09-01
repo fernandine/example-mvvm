@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example MVVM</string>
+    <string name="salvar">Salvar</string>
+    <string name="insira_item">Inserir itens</string>
+</resources>
